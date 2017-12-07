@@ -1,1 +1,1 @@
-# Markdown-knitr
+# Markdown & Knitr
